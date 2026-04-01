@@ -29,7 +29,10 @@ The simulation is written in Python 3.x and requires the following standard scie
 * `numpy` (Array manipulation and math)
 * `matplotlib` (Data visualization and animation)
 * `scipy` (Numerical integration via `solve_ivp` or `odeint`)
+  
+## Results
+<img width="720" height="288" alt="Figure_1" src="https://github.com/user-attachments/assets/143da8ac-bde3-47f0-a7f8-f1f8a7f06703" />
+<img width="720" height="284" alt="Figure_2" src="https://github.com/user-attachments/assets/d4a2482d-c396-4390-93dc-f7cc19652912" />
+<img width="768" height="377" alt="Figure_3" src="https://github.com/user-attachments/assets/6927d621-ba4f-4007-848b-eb82ab282379" />
+<img width="432" height="322" alt="Figure_4" src="https://github.com/user-attachments/assets/e463ab32-9fbf-4529-84b5-9315a10d1759" />
 
-Install dependencies using:
-```bash
-pip install numpy matplotlib scipy
